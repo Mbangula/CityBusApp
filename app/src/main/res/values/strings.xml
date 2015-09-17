@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CityBusApp</string>
+
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Buses Schedules</string>
+    <string name="title_section3">Manage your trip</string>
+    <string name="title_section4">View bus stops</string>
+    <string name="title_section5">View Routes</string>
+
+    <string name="opendata">www.opendatanamibia.org</string>
+    <string name="title_activity_buses_near_you">Bus stations near you</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="gps">GPS is off, would you like to switch it on?</string>
+    <string name="title_activity_home">Windhoek City Bus</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="action_view_on_map">View on Map</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="busno">Bus No</string>
+    <string name="frequency">Bus Frequency (mins)</string>
+    <string name="bno">790</string>
+    <string name="bfreq">00:30</string>
+    <string name="title_activity_near_by_places_fragment">Near By Places</string>
+    <string name="title_activity_fragment_single_place">Place</string>
+    <string name="title_activity_place_maps">Near by places</string>
+    <string name="title_activity_lol">LolActivity</string>
+    <string name="title_activity_splash_screen">City Bus App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_near_by_places">Near by places</string>
+    <string name="title_activity_near_bus">Bus near you</string>
+</resources>
