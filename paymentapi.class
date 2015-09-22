@@ -1,0 +1,33 @@
+class paymentapi {
+  private cell_number, taxi_code, taxi_fare, user_id;
+  public void paymentapi(String ussd){
+    
+  }
+  
+  private string cellNumber(){
+    set{
+      cell_number = "";
+    }
+    get{
+      return cell_number;
+    }
+  }
+  
+  private int taxiCode(){
+    set{
+      taxi_code = "";
+    }
+    get{
+      return taxi_code;
+    }
+  }
+  
+  private int userId(){
+    set{
+      user_id = "";
+    }
+    get{
+      return user_id;
+    }
+  }
+}
